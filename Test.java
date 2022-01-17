@@ -1,5 +1,9 @@
 public class Test{
 
+	private void test1(){
+	
+	}
+
 	//Test description
 	public static void main(String args[]){
 	
@@ -11,4 +15,13 @@ public class Test{
 
 		return -1;
 	}
+
+	private void test2(){
+	
+	}
+
+	private void test3(){
+	
+	}
+
 }
