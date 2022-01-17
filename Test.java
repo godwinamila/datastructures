@@ -7,4 +7,8 @@ public class Test{
 
 	}
 
+	public int binarySearch(int nums[]){
+
+		return -1;
+	}
 }
